@@ -11,8 +11,13 @@ than install composer and run
 
 add  something like 
 `17    *    *    *    *     cd /home/wodor/nexusCheck; php -f nexuscheck.php > /dev/null 2>&1`
-
 to your crontab (this will run check on 17th minute every hour)  
+
+To make sure that you receive emails you can change url or classname in config to invalid and run the script. 
+You should receive an false positive.
+
+
+
 
 
 
