@@ -1,4 +1,4 @@
-config.yml.dist
+config.yml
 vendor/
 /composer.phar
 .idea
