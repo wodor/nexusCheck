@@ -1,0 +1,9 @@
+{
+    "require": {
+        "behat/mink": "1.4@stable",
+        "monolog/monolog": "*",
+        "fabpot/goutte": "*",
+        "behat/mink-goutte-driver": "*",
+        "symfony/yaml": "*"
+    }
+}
